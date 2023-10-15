@@ -6,7 +6,12 @@ INSTALLATION INSTRUCTIONS
   
    adding refrence libraries.
 
-![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/5910a417-48f2-41a7-b2d3-869bcf3ab40f)
+   ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/c531a65d-5a5c-403d-9f71-39b5c9996156)
+
+
+
+  click on Add Configuration and edit launch.json, in mainClass add app.(the_next_word)
+  ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/01cea6b7-aa58-4892-94b2-e1da1155b58b)
 
 
 
