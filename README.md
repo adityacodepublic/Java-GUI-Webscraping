@@ -10,7 +10,7 @@ INSTALLATION INSTRUCTIONS
 
 
 
-  If file not working then, click on Add Configuration and edit launch.json, > in mainClass add app.(the_next_word)
+  If file not running after adding libraries then, click on Add Configuration and edit launch.json, > in mainClass add app.(the_next_word)
   ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/e895b629-b78c-4a09-95fb-72e47400159d)
 
 
