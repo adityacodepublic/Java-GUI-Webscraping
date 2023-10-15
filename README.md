@@ -12,9 +12,10 @@ INSTALLATION INSTRUCTIONS
 
    # Screenshot
 
-   ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/7359811c-b791-4d97-a4ab-46f74a1faf09)
+  ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/af12f080-6474-4b71-a4d0-b12fe316b53d)
 
-  ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/0a144a80-1b13-4ebe-8fdb-cbd66a2aa2d4)
+
+  ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/baeef10b-90ec-44fc-923f-d018a71d6b74)
 
   opens books in google books preview. 
 
