@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <iframe
+    width="560"
+    height="315"
+    src="https://youtu.be/Z1BCujX3pw8?si=pFduRplmsCaqG2GC"
+    frameborder="0"
+    allowfullscreen="allowfullscreen"
+    id="videoFrame"
+  ></iframe>
+  <div id="pauseButton" style="position: absolute; top: 10px; left: 10px;">
+    <button onclick="pauseVideo()">Pause</button>
+  </div>
+
+  <script>
+    var player;
+    function onYouTubeIframeAPIReady() {
+      player = new YT.Player("videoFrame", {
+        events: {
+          onReady: onPlayerReady,
+        },
+        playerVars: {
+          controls: 0, // Hide player controls
+        },
+      });
+    }
+    function onPlayerReady(event) {
+      // You can do additional setup here if needed
+    }
+    function pauseVideo() {
+      player.pauseVideo(); // Pause the video
+    }
+  </script>
+  <script src="https://www.youtube.com/iframe_api"></script>
+</body>
+</html>
