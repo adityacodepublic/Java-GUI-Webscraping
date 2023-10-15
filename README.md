@@ -4,13 +4,13 @@ Webscraping with JSoup,  📚 Books Search &amp; Read
 INSTALLATION INSTRUCTIONS
 1. In VS Code: install JDK and Java plugins.
   
-   adding refrence libraries.
+   adding refrence libraries. click on it and add libraries from libs folder
 
    ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/c531a65d-5a5c-403d-9f71-39b5c9996156)
 
 
 
-  click on Add Configuration and edit launch.json, in mainClass add app.(the_next_word)
+  If file not working then, click on Add Configuration and edit launch.json, > in mainClass add app.(the_next_word)
   ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/e895b629-b78c-4a09-95fb-72e47400159d)
 
 
