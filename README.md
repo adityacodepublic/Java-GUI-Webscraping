@@ -8,15 +8,6 @@ INSTALLATION INSTRUCTIONS
 
    ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/251e6d32-d446-42fc-8d12-86f520ee9e60)
 
-   editing launch.json to 
-   "type": "java",
-            "name": "Launch YourApp",
-            "request": "launch",
-            "mainClass": "app.YourApp",
-            "projectName": "reviewsite-main_66eb64c7",
-            "vmArgs": "--module-path lib/javafx-sdk-21/lib --add-modules javafx.web,javafx.swing,javafx.fxml,javafx.controls,javafx.graphics,javafx.base,javafx.media",
-            "args": "",
-
 
 
    # Screenshot
