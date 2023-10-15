@@ -22,8 +22,9 @@ INSTALLATION INSTRUCTIONS
   ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/af12f080-6474-4b71-a4d0-b12fe316b53d)
 
 
-  ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/baeef10b-90ec-44fc-923f-d018a71d6b74)
+  ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/d0248efe-4cb2-497f-b366-4253f3a54e97)
 
-  opens books in google books preview. 
+
+  Opens books in google books preview. 
 
 
