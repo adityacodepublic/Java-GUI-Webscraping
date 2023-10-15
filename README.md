@@ -6,7 +6,8 @@ INSTALLATION INSTRUCTIONS
   
    adding refrence libraries.
 
-   ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/251e6d32-d446-42fc-8d12-86f520ee9e60)
+![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/5910a417-48f2-41a7-b2d3-869bcf3ab40f)
+
 
 
 
