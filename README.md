@@ -11,7 +11,8 @@ INSTALLATION INSTRUCTIONS
 
 
   click on Add Configuration and edit launch.json, in mainClass add app.(the_next_word)
-  ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/01cea6b7-aa58-4892-94b2-e1da1155b58b)
+  ![image](https://github.com/adityacodepublic/Java-GUI-Webscraping/assets/93919558/e895b629-b78c-4a09-95fb-72e47400159d)
+
 
 
 
